@@ -4,7 +4,7 @@ FREAKING MATH Open Source : is the best game for testing your intelligence, smar
 FREAKING MATH will make you get mad with the simple calculation but total time to calculate is just nearly 1 seconds.
 Touch "Play" to start “FREAKING MATH” now
 
-Avaiable for test on Googplay : 
+Avaiable for test on Google play : 
 https://play.google.com/store/apps/details?id=vn.pp.freakingadult
 
 
@@ -15,8 +15,8 @@ https://play.google.com/store/apps/details?id=vn.pp.freakingadult
 - Compete source code.
 - Addicted game.
 - Clean & Clear design.
-- add to share with friends Facebook function.
-- Compatible with mutil platform by libgdx
+- add to share Facebook function with screen shoot.
+- Compatible with mutilple platform by libgdx
  
 <b>How to build<b>
 
