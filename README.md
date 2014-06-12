@@ -2,7 +2,8 @@ Freaking Math Open Source -Libgdx
 ============
 FREAKING MATH Open Source : is the best game for testing your intelligence, smart and clever.
 FREAKING MATH will make you get mad with the simple calculation but total time to calculate is just nearly 1 seconds.
-Touch "Play" to start “FREAKING MATH” now !
+Touch "Play" to start “FREAKING MATH” now
+
 Avaiable for test on Googplay : 
 http://adf.ly/pVvGS
 
