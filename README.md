@@ -5,7 +5,7 @@ FREAKING MATH will make you get mad with the simple calculation but total time t
 Touch "Play" to start “FREAKING MATH” now
 
 Avaiable for test on Googplay : 
-http://adf.ly/pVvGS
+https://play.google.com/store/apps/details?id=vn.pp.freakingadult
 
 
 <b>HOW TO PLAY</b>
@@ -24,6 +24,7 @@ On Android
 - Check out lastest source code
 - Install eclipse, ADT, JDK 1.6 or later , Windows Android SDK
 - Open eclipse and click: File -> Import -> Existing Projects into Workspace
+- Include <a href = "https://developers.facebook.com/docs/android/">Facebook SDK</a> and  <a href="https://developers.google.com/games/services/android/quickstart#step_4_test_your_game">Game Base Utils</a> library project in Library of Freaking Math Android Project 
 - Build Resource by go to FreakingMath/src/vn.pp.freakingaudult/MyTTPacker.java and run as Java Application
 - Then build and run Freaking Math Android project
 
