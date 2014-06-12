@@ -1,0 +1,145 @@
+
+FileMoTa.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+setting
+  rotate: false
+  xy: 1, 14
+  size: 401, 493
+  orig: 401, 493
+  offset: 0, 0
+  index: -1
+gameover
+  rotate: false
+  xy: 404, 179
+  size: 411, 328
+  orig: 411, 328
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 817, 339
+  size: 408, 168
+  orig: 408, 168
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 404, 70
+  size: 245, 107
+  orig: 245, 107
+  offset: 0, 0
+  index: -1
+slide_bar
+  rotate: false
+  xy: 1, 1
+  size: 325, 11
+  orig: 325, 11
+  offset: 0, 0
+  index: -1
+true
+  rotate: false
+  xy: 1227, 332
+  size: 168, 175
+  orig: 168, 175
+  offset: 0, 0
+  index: -1
+false
+  rotate: false
+  xy: 1397, 332
+  size: 167, 175
+  orig: 167, 175
+  offset: 0, 0
+  index: -1
+slide_bg
+  rotate: false
+  xy: 817, 327
+  size: 325, 10
+  orig: 325, 10
+  offset: 0, 0
+  index: -1
+play2
+  rotate: false
+  xy: 651, 79
+  size: 159, 98
+  orig: 159, 98
+  offset: 0, 0
+  index: -1
+menu
+  rotate: false
+  xy: 1566, 409
+  size: 158, 98
+  orig: 158, 98
+  offset: 0, 0
+  index: -1
+ok
+  rotate: false
+  xy: 817, 234
+  size: 161, 91
+  orig: 161, 91
+  offset: 0, 0
+  index: -1
+fshare
+  rotate: false
+  xy: 1566, 347
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+highscore
+  rotate: false
+  xy: 1726, 434
+  size: 127, 73
+  orig: 127, 73
+  offset: 0, 0
+  index: -1
+rate
+  rotate: false
+  xy: 980, 252
+  size: 122, 73
+  orig: 122, 73
+  offset: 0, 0
+  index: -1
+sound_off
+  rotate: false
+  xy: 1855, 421
+  size: 76, 86
+  orig: 76, 86
+  offset: 0, 0
+  index: -1
+sound_on
+  rotate: false
+  xy: 1933, 421
+  size: 76, 86
+  orig: 76, 86
+  offset: 0, 0
+  index: -1
+off
+  rotate: false
+  xy: 404, 10
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+on
+  rotate: false
+  xy: 465, 10
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+touch
+  rotate: false
+  xy: 817, 182
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 1144, 327
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
